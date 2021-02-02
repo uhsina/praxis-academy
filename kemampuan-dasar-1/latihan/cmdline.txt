@@ -1,0 +1,74 @@
+D:\praxis-academy\kemampuan-dasar-1\latihan>echo 'IRI BILANG BOSS!'
+'IRI BILANG BOSS!'
+
+D:\praxis-academy\kemampuan-dasar-1\latihan>date
+The current date is: Tue 02/02/2021
+Enter the new date: (mm-dd-yy)
+
+D:\praxis-academy\kemampuan-dasar-1\latihan>echo 'ini isi txt' > filetxt.txt
+
+D:\praxis-academy\kemampuan-dasar-1\latihan>type filetxt.txt
+'ini isi txt'
+
+D:\praxis-academy\kemampuan-dasar-1\latihan>move filetxt.txt powershellscripts
+        1 file(s) moved.
+
+D:\praxis-academy\kemampuan-dasar-1>cd latihan
+
+D:\praxis-academy\kemampuan-dasar-1\latihan>
+
+D:\praxis-academy\kemampuan-dasar-1\latihan>cd ..\
+
+D:\praxis-academy\kemampuan-dasar-1\latihan>rename ..\filetxt.txt ganti.txt
+
+D:\praxis-academy\kemampuan-dasar-1\latihan>systeminfo
+
+Host Name:                 LAPTOP-QDVA8F7K
+
+D:\praxis-academy\kemampuan-dasar-1\latihan>ftp
+ftp>
+ftp> quit
+
+D:\praxis-academy\kemampuan-dasar-1\latihan>tracert youtube.com
+
+Tracing route to youtube.com [74.125.24.93]
+
+D:\praxis-academy\kemampuan-dasar-1\latihan>route
+
+Manipulates network routing tables.
+
+D:\praxis-academy\kemampuan-dasar-1\latihan>getmac
+
+Physical Address    Transport Name
+
+D:\praxis-academy\kemampuan-dasar-1\latihan>netstat
+
+Active Connections
+
+D:\praxis-academy\kemampuan-dasar-1\latihan>ping google.com
+
+D:\praxis-academy\kemampuan-dasar-1\latihan>echo filetxt.txt
+filetxt.txt
+
+D:\praxis-academy\kemampuan-dasar-1>dir
+ Volume in drive D is Data 1
+ Volume Serial Number is 3627-198A
+
+D:\praxis-academy\kemampuan-dasar-1>vol
+ Volume in drive D is Data 1
+ Volume Serial Number is 3627-198A
+
+D:\praxis-academy\kemampuan-dasar-1>tree
+Folder PATH listing for volume Data 1
+Volume serial number is 3627-198A
+D:.
+└───latihan
+    └───Folder Baru
+
+D:\praxis-academy\kemampuan-dasar-1>mode
+
+Status for device CON:
+
+
+
+
