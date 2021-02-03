@@ -13,7 +13,7 @@
 
 Ada 2 cara untuk mengatur Github untuk kolaborasi team:
 
-1. Organizations - Menambahkan organisasi Universitas Dutabangsa Surakarta
+1. Organizations - Menambahkan organisasi.
 
 ![alt text](../images/1.png)
 
