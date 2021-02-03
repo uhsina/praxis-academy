@@ -15,7 +15,7 @@ Ada 2 cara untuk mengatur Github untuk kolaborasi team:
 
 1. Organizations - Menambahkan organisasi Universitas Dutabangsa Surakarta
 
-![alt text](../Images/1.png)
+![alt text](../images/1.png)
 
 Memberikan level akses masing-masing team :
 
@@ -64,10 +64,10 @@ Untuk melakukan bug tracking ada dalam menu Issues
 Dua tools yang diberikan didalam repository adalah Graphs dan Network
 `https://github.com/[user-name]/[repo]/pulse`
 maka akan ditampilkan grafik sebagai berikut
-![alt text](../Images/3.png)
+![alt text](../images/3.png)
 
 untuk Network ditampilkan sebagai berikut
-![alt text](../Images/4.png)
+![alt text](../images/4.png)
 
 ## Tool 5: Project Management
 
@@ -95,7 +95,7 @@ Setiap commit Github memungkinkan adanya komentar setiap baris kode, dengan memb
 
 Dokumentasi digunakan dengan menggunakan Github Wiki untuk membuat dokumentasi dari source code, dapat ditambahkan Github Hubot dan Mentions, Shortcuts & Emoji
 
-![alt text](../Images/2.png)
-![alt text](../Images/1.png)
+![alt text](../images/2.png)
+![alt text](../images/1.png)
 
 
