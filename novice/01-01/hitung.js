@@ -1,4 +1,3 @@
-/*
 const lee = "myanmar";
 let cupu = " baginda";
 let hasil = (lee+cupu)
@@ -22,9 +21,8 @@ console.log("remedi")
 else if (nilai>70)
 
 console.log("berhasil")
-  */  
 
-var angka=2
+ var angka=2
 if (angka==1)
 
 console.log("satu")
@@ -37,3 +35,5 @@ else if (angka==3)
 
 console.log("tiga")
 
+let scores = [70, 80, 60];
+console.log(scores);
