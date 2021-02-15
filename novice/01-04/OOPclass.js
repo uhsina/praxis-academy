@@ -28,3 +28,4 @@ class kardusPersegiP extends rectangle{
 const hasilVolume = new kardusPersegiP(2, 4, 6)
 console.log(hasilVolume.volume())
 
+
