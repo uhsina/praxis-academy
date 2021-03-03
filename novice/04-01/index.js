@@ -5,8 +5,8 @@ import { allowInsecurePrototypeAccess } from "@handlebars/allow-prototype-access
 import hbs from "express-handlebars";
 
 const app = express();
-
 app.use(router);
+
 
 app.engine(
   "hbs",
