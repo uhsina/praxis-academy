@@ -1,0 +1,26 @@
+<!DOCTYPE html> 
+<html> 
+    <head>
+        <title>Data Akun</title>
+    </head>
+	<body> 
+
+         <a href="/">Kembali</a>
+         <a href="/akun/tambahAkun">tambah akun</a>
+         <a href="/akun/deleteAkun">delete akun</a>
+
+
+        <h1>Daftar Akun</h1>
+
+        <ol>
+            {{#each akuns}}
+            <li>
+                <p>
+                    {{this.id}} - {{this.nama}} - {{this.jabatan}}
+                </p>
+            </li>
+            {{/each}}
+        </ol>
+        
+	</body> 
+</html> 
